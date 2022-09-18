@@ -8,6 +8,7 @@ In this fun and interesting project, we have made the process of Encryption and 
 2. Download the decrypt_cryptography.py file
 3. Download the secret.txt file or make your own secret.txt file!
 
+# Instructions
 Place all the files in the same folder and run the encryption code. This performs a series of multiple matrix transformations before providing us another file contaiing the encrypted text of only numbers.
 To get back the original file, we can similarly run the decryption code and all the reverse calculations are performed.
 
