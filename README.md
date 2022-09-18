@@ -3,7 +3,7 @@
 Hey Everyone!
 In this fun and interesting project, we have made the process of Encryption and Decryption of Text files easy and simple!
 
-#Getting Started
+# Getting Started
 1. Download the encrypt_cryptography.py file
 2. Download the decrypt_cryptography.py file
 3. Download the secret.txt file or make your own secret.txt file!
